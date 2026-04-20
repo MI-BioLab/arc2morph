@@ -3,8 +3,8 @@
 This is the official repository for the paper "Arc2Morph: Identity-Preserving Facial Morphing with Arc2Face".
 
 # How to use
-1. Install [Arc2Face](https://github.com/foivospar/Arc2Face)
-2. Place the [morph_multiple.py](morph_multiple.py) script in the root directory of the Arc2Face repository
+1. Install [Arc2Face](https://github.com/foivospar/Arc2Face) with ControlNet.
+2. Place the [morph_multiple.py](morph_multiple.py) script in the root directory of the Arc2Face repository.
 3. Run it. The script expects a list of paths relative to a root, as in the example below.
 
 ```
